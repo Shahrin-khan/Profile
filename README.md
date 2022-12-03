@@ -9,6 +9,6 @@
 - 📫 How to reach me? My gmail is shahrinkhan306@gmail.com
 
 <!---
-Shahrin-khan/Profile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shahrin-khan/Shahrin-khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
